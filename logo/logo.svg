@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     inkscape:export-ydpi="72"
+     inkscape:export-xdpi="72"
+     inkscape:export-filename="/home/you_create/Shared/Vector Graphics/Logo/better-readme/logo-github.png"
+     sodipodi:docname="logo.svg"
+     inkscape:version="1.0beta2 (unknown)"
+     id="svg8"
+     version="1.1"
+     viewBox="0 0 211.66666 211.66667"
+     height="800"
+     width="800">
+    <title
+         id="title889">The Logo of The Better README Project</title>
+    <defs
+         id="defs2" />
+    <sodipodi:namedview
+         inkscape:window-maximized="1"
+         inkscape:window-y="0"
+         inkscape:window-x="0"
+         inkscape:window-height="1080"
+         inkscape:window-width="1920"
+         inkscape:guide-bbox="true"
+         showguides="true"
+         inkscape:showpageshadow="false"
+         units="px"
+         showgrid="false"
+         inkscape:document-rotation="0"
+         inkscape:current-layer="layer3"
+         inkscape:document-units="px"
+         inkscape:cy="461.31784"
+         inkscape:cx="273.95535"
+         inkscape:zoom="0.49497475"
+         inkscape:pageshadow="2"
+         inkscape:pageopacity="0.0"
+         borderopacity="1.0"
+         bordercolor="#666666"
+         pagecolor="#ffffff"
+         id="base">
+        <sodipodi:guide
+             inkscape:color="rgb(0,0,255)"
+             inkscape:locked="true"
+             inkscape:label=""
+             id="guide858"
+             orientation="0,1"
+             position="0,211.66666" />
+        <sodipodi:guide
+             inkscape:color="rgb(0,0,255)"
+             inkscape:locked="true"
+             inkscape:label=""
+             id="guide860"
+             orientation="0,1"
+             position="0,141.11102" />
+        <sodipodi:guide
+             id="guide862"
+             orientation="0,-1"
+             position="0,-6.75293e-06" />
+        <sodipodi:guide
+             inkscape:color="rgb(0,0,255)"
+             inkscape:locked="true"
+             inkscape:label=""
+             id="guide864"
+             orientation="0,1"
+             position="0,70.555555" />
+    </sodipodi:namedview>
+    <metadata
+         id="metadata5">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title>The Logo of The Better README Project</dc:title>
+                <dc:date>23 Feb 2020</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Nguyen Hoang Duong</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:publisher>
+                    <cc:Agent>
+                        <dc:title>The Better README Project</dc:title>
+                    </cc:Agent>
+                </dc:publisher>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g
+         sodipodi:insensitive="true"
+         inkscape:label="Background"
+         id="layer2"
+         inkscape:groupmode="layer">
+        <rect
+             ry="2.0000012"
+             rx="2.0000012"
+             y="0"
+             x="0"
+             height="211.66667"
+             width="211.66667"
+             id="rect10"
+             style="fill:#ececec;stroke-width:0.0999996;stop-color:#000000" />
+    </g>
+    <g
+         inkscape:label="Logo"
+         id="layer3"
+         inkscape:groupmode="layer">
+        <rect
+             y="70.555557"
+             x="31.749998"
+             height="70.555557"
+             width="6.3523812"
+             id="rect835"
+             style="fill:#131313;stroke-width:0.1;stop-color:#000000" />
+        <text
+             id="text854"
+             y="100.19697"
+             x="54.378746"
+             style="font-style:normal;font-weight:normal;font-size:32.4556px;line-height:1.05;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#131313;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+             xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.264583;fill:#131313;"
+                 y="100.19697"
+                 x="54.378746"
+                 id="tspan852"
+                 sodipodi:role="line">better</tspan><tspan
+                 id="tspan856"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.264583;fill:#131313;"
+                 y="135.38948"
+                 x="54.378746"
+                 sodipodi:role="line">readme</tspan></text>
+    </g>
+</svg>
